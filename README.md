@@ -4,6 +4,8 @@ This is a collection of resources given by the professors at IIT Bombay for all 
 
 # Timetable
 
+ > [!NOTE]
+ > This timetable is for P13 batch people. For students of other batches, lab class days may vary.
 
 <table>
         <tr>
@@ -27,7 +29,7 @@ This is a collection of resources given by the professors at IIT Bombay for all 
           <td colspan="2"> </td>
           <td colspan="2">MS101(Mech)</td>
           <td colspan="2"> </td>
-          <td colspan="6">MS101(Mech Lab)</td>
+          <td colspan="6">MS101(Elec Lab)</td>
       </tr>
       <tr>
           <td colspan="2">Tuesday</td>
@@ -50,7 +52,7 @@ This is a collection of resources given by the professors at IIT Bombay for all 
         <td colspan="2"> </td>
         <td colspan="2">MA110</td>
         <td colspan="2"> </td>
-        <td colspan="6">MS101(Elec Lab)</td>
+        <td colspan="6">MS101(Mech Lab)</td>
     </tr>
     <tr>
         <td colspan="2">Friday</td>
