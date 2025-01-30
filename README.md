@@ -57,7 +57,7 @@ This is a collection of resources given by the professors at IIT Bombay for all 
     <tr>
         <td colspan="2">Friday</td>
         <td colspan="2">MS101(Elec)</td>
-        <td colspan="3">CS104</td>
+        <td colspan="3"> </td>
         <td colspan="3">BB101</td>
         <td colspan="6"> </td>
     </tr>
